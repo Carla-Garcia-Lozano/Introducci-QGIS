@@ -1,4 +1,4 @@
-# Introducci-QGIS
+# Introduccio-QGIS
 Guia d'introducció al QGIS
 
 Pots afegir etiquetes de text dels municipis:
